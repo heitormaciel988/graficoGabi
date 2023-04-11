@@ -1,0 +1,42 @@
+/* Reset básico */
+
+/* Zera as margens e preenchimentos em todos os elementos */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* faz com que a largura/altura dos elementos inclua o preenchimento e a borda */
+}
+
+/* Define fonte e cor padrão */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Remove a decoração de links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Remove as bolinhas em listas não ordenadas */
+ul {
+  list-style: none;
+}
+
+/* Remove aspas em citações */
+blockquote {
+  quotes: none;
+}
+
+/* Define a quebra de linha como "normal" */
+br {
+  clear: both;
+}
+
+/* Define a largura e altura de imagens como 100% */
+img {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,35 @@
+.tabela__total {
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 1px;
+    font-size: 1.5em;
+} 
+
+.header__acima {
+    background-color: rgb(141, 141, 141);
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.tabela__header {
+    padding: 10px;
+}
+
+.grafico-imagem {
+    width: 300px;
+    margin: auto;
+    display: flex;
+    margin-top: 3em;
+}
+
+h1 {
+    text-align: center;
+    margin: 1em;
+}
+
+.tete {
+    padding: 1px;
+}
