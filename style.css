@@ -1,5 +1,6 @@
 .tabela__total {
     border: 1px solid black;
+    width: 90vw;
     margin: auto;
     margin-top: 1px;
     font-size: 1.5em;
